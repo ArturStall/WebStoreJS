@@ -1,0 +1,34 @@
+.user {
+  margin: auto;
+  width: 60%;
+  height: 100%;
+  border: 1px solid red;
+}
+
+.image {
+  margin: auto;
+  width: 80%;
+  height: auto;
+  border: 1px solid red;
+}
+
+.name {
+  margin: auto;
+  margin-top: 5%;
+  width: 80%;
+  height: 5%;
+  border: 1px solid red;
+  text-align: center;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.email {
+  margin: auto;
+  width: 80%;
+  height: 5%;
+  border: 1px solid red;
+  text-align: center;
+  font-weight: bold;
+  font-size: 15px;
+}

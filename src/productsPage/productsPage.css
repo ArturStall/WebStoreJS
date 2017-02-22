@@ -1,0 +1,52 @@
+.tableProducts {
+  margin: auto;
+  width: 80%;
+  height: 80%;
+}
+
+.products {
+  display: inline-block;
+  width: 32%;
+  height: 45%;
+  margin: 0.2%;
+  margin-top: 4%;
+  border: 2px solid grey;
+  border-radius: 10px;
+  background-color: white;
+}
+
+.productsHeader {
+  margin-top: 2%;
+  width: 100%;
+  height: 5%;
+  font-weight: bold;
+  font-size: 20px;
+  text-align: center;
+}
+
+.imageBlock {
+  margin-top: 2%;
+  width: 100%;
+  height: 70%;
+}
+
+.productsImage {
+  width: 100%;
+  height: auto;
+}
+
+.productsDescription {
+  margin: auto;
+  text-align: center;
+  width: 90%;
+  height: 15%;
+  font-size: 14px;
+}
+
+.productsCost {
+  width: 95%;
+  height: 8%;
+  font-size: 20px;
+  font-weight: bold;
+  text-align: right;  
+}
